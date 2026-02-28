@@ -1,0 +1,7 @@
+{
+  "name": "ServiceLink",
+  "description": "A human-centric local service discovery platform connecting neighbors with trusted professionals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
