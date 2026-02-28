@@ -2,7 +2,7 @@
 
 A modern local services marketplace UI (Mock MVP).
 
-## 🚀 Live Demo
+## 🔥 Live Demo
 https://servicelinkv.netlify.app/
 
 ## 🛠 Tech Stack
